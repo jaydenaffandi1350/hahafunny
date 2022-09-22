@@ -24,7 +24,6 @@ local Bypasses = {
     ["whore"] = "who{{aieixzvzx:re}}", 
     ["discord"] = "disco{{aieixzvzx:rd}}", 
     ["kys"] = "k{{aieixzvzx:ys}}", 
-    ["kill"] = "ki{{aieixzvzx:ll}}", 
     ["rape"] = "ra{{aieixzvzx:pe}}", 
     ["nigger"] = "ni{{aieixzvzx:ggers}}", 
     ["faggots"] = "fa{{aieixzvzx:ggots}}", 
@@ -40,7 +39,8 @@ local Bypasses = {
     ["racist"] = "rac{{aieixzvzx:ist}}", 
     ["racists"] = "rac{{aieixzvzx:ists}}", 
     ["homophobic"] = "hom{{aieixzvzx:ophobic}}", 
-    ["homo"] = "hom{{aieixzvzx:o}}" 
+    ["homo"] = "hom{{aieixzvzx:o}}", 
+    ["kill"] = "ki{{aieixzvzx:ll}}" 
 }
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
